@@ -31,6 +31,34 @@ Frontend Developer passionate about building responsive and user-friendly web ap
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📌 Featured Projects
+
+### 🚀 TaskZen
+🔗 Live Demo: https://task-zen-black.vercel.app/
+
+A modern task management application built with React that helps users organize, track, and manage daily tasks efficiently.
+
+**Tech Stack:** React, JavaScript, CSS
+
+---
+
+### 💪 Aura Fits
+🔗 Live Demo: https://viswateja0309.github.io/aurafits-ecommerce-website/
+
+A responsive fitness and wellness website featuring modern UI design and optimized user experience.
+
+**Tech Stack:** React, JavaScript, CSS
+
+---
+
+### 🌫️ Indoor Air Quality Monitoring System
+
+A web-based dashboard developed to visualize and analyze indoor air quality information through charts, metrics, and an intuitive interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
